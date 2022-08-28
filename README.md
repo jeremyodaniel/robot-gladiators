@@ -9,7 +9,7 @@ in the store.
 
 
 ### Technologies
-JavaScript
-HTML
+* JavaScript
+* HTML
 
 
